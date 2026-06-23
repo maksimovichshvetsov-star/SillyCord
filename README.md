@@ -24,7 +24,3 @@ The official Discord client (built on Electron) often bloats up to 500+ MB of RA
 ## 💻 Building from Source (For Developers)
 
 If you want to compile the project yourself, you will need the **.NET 8 SDK** and VS Code / Visual Studio.
-
-1. Clone the repository:
-```bash
-   git clone [https://github.com/your-username/SillyDiscord.git](https://github.com/your-username/SillyDiscord.git)
